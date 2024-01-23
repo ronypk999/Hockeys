@@ -17,3 +17,7 @@ body {
     color: rgba(255, 255, 255, 0.60);
     
   }
+  .container{
+    padding-left: 4%;
+    padding-right: 4%;
+  }
